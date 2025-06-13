@@ -1,6 +1,6 @@
 🤖 CodeCritic AI - AI Powered Code Reviewer
 
-CodeCritic AI is a modern full-stack web app that provides instant code reviews using artificial intelligence. Built with React, Node.js, and Express, this tool allows users to paste JavaScript code, click "Review," and receive AI-generated suggestions and feedback.
+CodeCritic AI is a modern full-stack web app that provides instant code reviews using artificial intelligence. Built with React, Node.js, and Express, this tool allows users to paste codeof any language, click "Review," and receive AI-generated suggestions and feedback.
 
 🚀 Live Demo
  https://ai-powered-code-reviewer-mf59.vercel.app
