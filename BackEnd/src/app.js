@@ -25,9 +25,9 @@ const cors = require('cors');
 
 const app = express();
 
-// ✅ Allow only your frontend origin
+// ✅ FIX: CORS set to your actual frontend domain
 app.use(cors({
-  origin: 'https://color-betting-game-13tk.vercel.app'
+  origin: "https://ai-powered-code-reviewer-mf59.vercel.app"
 }));
 
 app.use(express.json());
